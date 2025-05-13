@@ -55,9 +55,9 @@ This project is a hands-on implementation of a simple 8-bit computer using TTL l
 ## 📷 Project Images
 
 > 📸 [Modules connection](https://drive.google.com/drive/folders/102xT5XIXT9EeevBrcnJlCl4fciRQypNZ)
-
+> 
+![8-Bit Computer](Full_8_Bit_Computer.jpeg)
 ---
-
 ## 📼 Demo
 
 > 🎥 [Watch the demo video](https://drive.google.com/drive/folders/1fhcxX2b4YQGhzQeWNYMKl6otK96SoW0N)
